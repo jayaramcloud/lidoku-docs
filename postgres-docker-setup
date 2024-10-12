@@ -24,4 +24,6 @@ Type "help" for help.
 paste
 ~/guac/guacamole-client/extensions/guacamole-auth-jdbc/modules/guacamole-auth-jdbc-postgresql/schema/001-create-schema.sql
 ~/guac/guacamole-client/extensions/guacamole-auth-jdbc/modules/guacamole-auth-jdbc-postgresql/schema/002-create-admin-user.sql
+
+some thing
 ```
