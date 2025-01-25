@@ -36,3 +36,5 @@ tutor --version
 
 You will see the version similar to this ```tutor, version 19.0.1-main```
 
+
+After installing edly tutor, follow the docs to run [open-edx development](https://github.com/jayaramcloud/lidoku-docs/blob/main/openedx-setup/OPEN_EDX_DEVELOPMENT.md) locally
