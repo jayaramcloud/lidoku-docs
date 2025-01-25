@@ -1,7 +1,7 @@
 # Running open-edx development using edly tutor in your machine
 
 ## Running open-edx development locally
-After installing tutor, you can run open-edx development using tutor.
+After installing tutor, you can run [open-edx development](https://docs.tutor.edly.io/dev.html) using tutor.
 
 Clone the official [edx-platform](https://github.com/openedx/edx-platform) repository by the following command:
 ```bash
