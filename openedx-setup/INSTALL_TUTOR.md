@@ -19,7 +19,7 @@ Activate the virtual environment by running the command below
 source ./.venv/bin/activate
 ```
 > [!NOTE]
-> Verify the python virtual environment is active by running ```which python``` which will output the path to ```tutor-install```
+> Verify the python virtual environment is active by running ```which python3```. This will output the path of python3 to the virtual environment inside ```tutor-install```
 
 
 ### Installing tutor
