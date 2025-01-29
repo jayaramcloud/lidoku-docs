@@ -2,6 +2,7 @@
 
 ## Edly tutor installation
 You can install tutor as [Python package](https://docs.tutor.edly.io/install.html#python-package)
+
 Create a directory named ```tutor-install``` by running the command ```mkdir tutor-install``` and navigate into the directory by running ```cd tutor-install```
 
 
@@ -26,8 +27,8 @@ pip install "tutor[full]"
 ```
 
 
-### Verifing the tutor version
-You can check if tutor is installed in you machine using the following command:
+### Verifing the tutor installation
+You can check if tutor is installed in your virtual environment using the following command:
 ```bash
 tutor --version
 ```
@@ -37,7 +38,8 @@ You will see the version similar to this ```tutor, version 19.0.1```
 
 ### Adding tutor executable to the machine
 Now we have installed tutor successfully, but the tutor command will work only inside the ```tutor-install``` directory.
-To make the tutor run across the machine we want to create a symbolic link of the tutor executable to the machine.
+
+To make the tutor run across the machine we want to create a symbolic link of the tutor executable from the virtual environment to the machine.
 
 First get the path of the tutor executable by running the command inside the ```tutor-install``` directory.
 ```bash
