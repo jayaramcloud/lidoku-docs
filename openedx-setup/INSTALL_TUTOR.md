@@ -5,6 +5,7 @@ You can install tutor as [Python package](https://docs.tutor.edly.io/install.htm
 
 > [!NOTE]
 > Before installing tutor through python, it is recommend to install it in a python virtual environment.
+> Follow these steps to create a python virtual environment
 > ```bash
 > mkdir tutor-install
 > ```
@@ -14,7 +15,8 @@ You can install tutor as [Python package](https://docs.tutor.edly.io/install.htm
 > create a python virtual environment using the command below:
 > ```bash
 > python3 -m venv .venv
->
+> ```
+> You should install tutor inside the ```tutor-install``` directory
 
 The commands to install tutor as python package are as follows:
 ```bash
