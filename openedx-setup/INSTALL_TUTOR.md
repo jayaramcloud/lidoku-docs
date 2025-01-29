@@ -19,7 +19,7 @@ Activate the virtual environment by running the command below
 source ./.venv/bin/activate
 ```
 > [!NOTE]
-> Make sure you have activated the python virtual environment by running ```which python``` which will output the path to ```tutor-install```
+> Verify the python virtual environment is active by running ```which python``` which will output the path to ```tutor-install```
 
 
 ### Installing tutor
