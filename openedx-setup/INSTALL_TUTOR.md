@@ -25,7 +25,7 @@ source ./.venv/bin/activate
 ### Installing tutor
 The commands to install tutor as python package are as follows:
 ```bash
-pip install "tutor[full]"
+python3 -m pip install "tutor[full]"
 ```
 
 
