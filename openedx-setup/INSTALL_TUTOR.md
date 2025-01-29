@@ -18,6 +18,8 @@ Activate the virtual environment by running the command below
 ```bash
 source ./.venv/bin/activate
 ```
+> [!NOTE]
+> Make sure you have activated the python virtual environment by running ```which python``` which will output the path to ```tutor-install```
 
 
 ### Installing tutor
