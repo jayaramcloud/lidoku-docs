@@ -3,7 +3,7 @@
 ## Edly tutor installation
 You can install tutor as [Python package](https://docs.tutor.edly.io/install.html#python-package)
 
-> NOTE:
+> [!NOTE]
 > Before installing tutor through python, it is recommend to install it in a python virtual environment.
 > ```bash
 > mkdir tutor-install
