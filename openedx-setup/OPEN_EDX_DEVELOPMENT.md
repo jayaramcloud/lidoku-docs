@@ -34,12 +34,14 @@ Run the command to add the necessary configuration to tutor
 tutor config save --set ENABLE_WEB_PROXY=true
 ```
 
-To stop the dev containers run the command
+Once you run the command ```tutor dev launch```, it will automatically install the docker images and run the dev server automatically.
+
+At any point of time, you can run the following command to stop the dev server. This will stop all the docker containers as well
 ```bash
 tutor dev stop
 ```
 
-To start the dev containers run the command
+You can start the dev server by running the following command. This will start the dev containers as well
 ```bash
 tutor dev start
 ```
