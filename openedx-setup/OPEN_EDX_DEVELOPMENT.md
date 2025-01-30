@@ -29,6 +29,12 @@ Run the following command to install the docker images for open-edx and running 
 tutor dev launch
 ```
 
+Your platform name/title [My Open edX] lidoku
+Your public contact email address [contact@local.openedx.io] jayaram.linux@gmail.com
+The default language code for the platform [en] 
+
+
+
 Run the command to add the necessary configuration to tutor
 ```bash
 tutor config save --set ENABLE_WEB_PROXY=true
